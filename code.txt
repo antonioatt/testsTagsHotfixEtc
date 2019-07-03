@@ -2,3 +2,4 @@ A
 B
 C
 D
+E <- hotfix in v0.1 release/tag
